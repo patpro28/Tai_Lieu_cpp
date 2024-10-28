@@ -1,0 +1,41 @@
+# Tài Liệu C++ Chinh Phục Mọi Kì Thi
+
+## Giới thiệu
+
+⁉️ Bạn đang tìm kiếm một bộ tài liệu C++ toàn diện, từ cơ bản đến nâng cao, giúp bạn chinh phục mọi kì thi lập trình? Nếu vậy, hãy cùng khám phá **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** - kho tàng kiến thức C++ đồ sộ với hơn 1000 bài tập được tuyển chọn kỹ lưỡng! 😉
+
+👉 Dự án này được xây dựng với mục tiêu cung cấp cho các bạn học sinh, sinh viên và những người yêu thích lập trình một nguồn tài liệu C++ chất lượng, bao quát kiến thức từ căn bản đến nâng cao, giúp bạn rèn luyện kỹ năng lập trình và tự tin chinh phục mọi kì thi. 
+
+## Nội dung
+
+- **Kiến thức nền tảng:** Cú pháp cơ bản, kiểu dữ liệu, biến, toán tử, cấu trúc điều khiển, hàm,...
+- **Phát triển tư duy lập trình:** Rèn luyện khả năng phân tích bài toán, thiết kế thuật toán, và viết code hiệu quả.
+- **Thuật toán nâng cao:** Tìm kiếm, sắp xếp, xử lý chuỗi, đồ thị,...
+- **Hơn 1000 bài tập đa dạng:** Bao quát kiến thức, giúp bạn sẵn sàng cho các kì thi lập trình, Olympic tin học, học sinh giỏi,...
+
+## Mục tiêu
+
+- Cung cấp tài liệu C++ hoàn chỉnh, dễ tiếp cận cho người học.
+- Giúp người học nắm vững kiến thức C++ từ cơ bản đến nâng cao.
+- Phát triển kỹ năng lập trình và giải quyết vấn đề thông qua thực hành.
+- Nâng cao khả năng tự học và nghiên cứu của người học.
+- Hỗ trợ người học chinh phục các kì thi lập trình.
+
+## Đặc điểm nổi bật
+
+- **Hơn 1000 bài tập:** Đa dạng về độ khó, giúp bạn luyện tập từ dễ đến khó.
+- **Nội dung được tuyển chọn kỹ lưỡng:** Đảm bảo chất lượng và phù hợp với nhu cầu học tập.
+- **Tài liệu dễ hiểu, dễ tiếp cận:** Phù hợp với cả người mới bắt đầu và người đã có kiến thức cơ bản.
+- **Thường xuyên cập nhật:** Bổ sung thêm bài tập và kiến thức mới.
+
+## Đối tượng sử dụng
+
+- Học sinh, sinh viên các trường đại học, cao đẳng có môn học C++.
+- Người tự học muốn nâng cao kỹ năng lập trình C++.
+- Các bạn chuẩn bị tham gia các kì thi lập trình, Olympic tin học.
+
+## Lời kết
+
+"Code nhiều thành thần" - Hãy bắt đầu hành trình chinh phục C++ cùng **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** ngay hôm nay! Vấn đề duy nhất có thể xảy ra là bạn chưa đủ quyết tâm mà thôi! ✊
+
+**(Lưu ý: Tài liệu được sưu tầm từ nhiều nguồn khác nhau như Facebook, Youtube, Google, VNOI... )** 
