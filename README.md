@@ -1,4 +1,4 @@
-# Tài Liệu C++ Chinh Phục Mọi Kì Thi
+# 📘 Tài Liệu C++ Chinh Phục Mọi Kì Thi
 
 ## Giới thiệu
 
@@ -58,8 +58,8 @@
 ## Lời kết
 
 "Code nhiều thành thần" - Hãy bắt đầu hành trình chinh phục C++ cùng **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** ngay hôm nay! Vấn đề duy nhất có thể xảy ra là bạn chưa đủ quyết tâm mà thôi! ✊
-
+ 
 **(Lưu ý: Tài liệu được sưu tầm từ nhiều nguồn khác nhau như Facebook, Youtube, Google, VNOI, CodeGym... )** 
 
-
+⭐ Đừng quên đánh dấu sao cho dự án nếu bạn thấy hữu ích nhé!
 
