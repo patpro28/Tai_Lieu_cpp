@@ -34,17 +34,32 @@
 - Người tự học muốn nâng cao kỹ năng lập trình C++.
 - Các bạn chuẩn bị tham gia các kì thi lập trình, Olympic tin học.
 
+## Tài liệu tham khảo
+### Các khoá học C++:
+
+- **C++ Full course - Toàn bộ khoá C++ trong 12 tiếng [Tại đây](https://www.youtube.com/watch?v=E2pWDPZRAVA) (Creator: Simplilearn)**
+
+- **C++ Full course - Toàn bộ khoá C++ trong 6 tiếng [Tại Đây](https://www.youtube.com/watch?v=-TkoO8Z07hI) (Creator: Bro Code)**
+
+- **C++ Programming Course - Khoá C++ trong 31 tiếng [Tại đây](https://www.youtube.com/watch?v=8jLOx1hD3_o) (Creator: freeCodeCamp.org)**
+
+### Các nguồn tài liệu khác:
+- **Nguồn tài liệu đề thi HSG Tin cấp Quận [Tại đây](https://github.com/zukahai/provincial-informatics-exam-questions.git)**
+
+- **Nguồn tài liệu thuật toán cơ bản [Tại đây](https://github.com/zukahai/algorithm-basics-tutorial)**
+
+- **Modern C++ Tutorial - Hướng dẫn C++ hiện đại [Tại đây](https://github.com/changkun/modern-cpp-tutorial)**
+
+- **C++ Core Guidlines - cốt lõi của C++ [Tại đây](https://github.com/isocpp/CppCoreGuidelines)**
+
+- **C++ Things - Vụn vặt cùng C++ [Tại đây](https://github.com/Light-City/CPlusPlusThings/blob/master/README_EN.md)**
+
+
 ## Lời kết
 
 "Code nhiều thành thần" - Hãy bắt đầu hành trình chinh phục C++ cùng **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** ngay hôm nay! Vấn đề duy nhất có thể xảy ra là bạn chưa đủ quyết tâm mà thôi! ✊
 
 **(Lưu ý: Tài liệu được sưu tầm từ nhiều nguồn khác nhau như Facebook, Youtube, Google, VNOI, CodeGym... )** 
 
-**Nguồn tài liệu đề thi HSG Tin cấp Quận [Tại đây](https://github.com/zukahai/provincial-informatics-exam-questions.git)**
-**Nguồn tài liệu thuật toán cơ bản [Tại đây](https://github.com/zukahai/algorithm-basics-tutorial)**
-**Modern C++ Tutorial - Hướng dẫn C++ hiện đại [Tại đây](https://github.com/changkun/modern-cpp-tutorial)**
-**C++ Core Guidlines - cốt lõi của C++ [Tại đây](https://github.com/isocpp/CppCoreGuidelines)**
-**C++ Things - Vụn vặt cùng C++ [Tại đây](https://github.com/Light-City/CPlusPlusThings/blob/master/README_EN.md)**
-**C++ Full course - Toàn bộ khoá C++ trong 12 tiếng [Tại đây](https://www.youtube.com/watch?v=E2pWDPZRAVA) (Creator: Simplilearn)**
-**C++ Full course - Toàn bộ khoá C++ trong 6 tiếng [Tại Đây](https://www.youtube.com/watch?v=-TkoO8Z07hI) (Creator: Bro Code)**
+
 
