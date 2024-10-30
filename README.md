@@ -37,11 +37,17 @@
 ## Tài liệu tham khảo
 ### Các khoá học C++:
 
-- **C++ Full course - Toàn bộ khoá C++ trong 12 tiếng [Tại đây](https://www.youtube.com/watch?v=E2pWDPZRAVA) (Creator: Simplilearn)**
+- **C++ Full course - Toàn bộ khoá C++ trong 12 tiếng [Tại đây](https://www.youtube.com/watch?v=E2pWDPZRAVA) (Tác giả: Simplilearn)**
 
-- **C++ Full course - Toàn bộ khoá C++ trong 6 tiếng [Tại Đây](https://www.youtube.com/watch?v=-TkoO8Z07hI) (Creator: Bro Code)**
+- **C++ Full course - Toàn bộ khoá C++ trong 6 tiếng [Tại Đây](https://www.youtube.com/watch?v=-TkoO8Z07hI) (Tác giả: Bro Code)**
 
-- **C++ Programming Course - Khoá C++ trong 31 tiếng [Tại đây](https://www.youtube.com/watch?v=8jLOx1hD3_o) (Creator: freeCodeCamp.org)**
+- **C++ Programming Course - Khoá C++ trong 31 tiếng [Tại đây](https://www.youtube.com/watch?v=8jLOx1hD3_o) (Tác giả: freeCodeCamp.org)**
+
+- **Khoá học C++ Cơ bản đến nâng cao [Tại đây](https://fullstack.edu.vn/learning/lap-trinh-c-co-ban-toi-nang-cao) (Tác giả: F8 - Học lập trình để đi làm )**
+
+- **Khoá học C++ cơ bản đến nâng cao [Tại đây](https://tek4.vn/khoa-hoc/lap-trinh-cpp-tu-co-ban-den-nang-cao) (Tác giả: Tek4.vn)**
+
+- **Khoá học C++ cho người mới bắt đầu [tại đây](https://codelearn.io/learning/cpp-cho-nguoi-moi-bat-dau) (Tác giả: Codelearn.io)**
 
 ### Các nguồn tài liệu khác:
 - **Nguồn tài liệu đề thi HSG Tin cấp Quận [Tại đây](https://github.com/zukahai/provincial-informatics-exam-questions.git)**
@@ -59,7 +65,7 @@
 
 "Code nhiều thành thần" - Hãy bắt đầu hành trình chinh phục C++ cùng **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** ngay hôm nay! Vấn đề duy nhất có thể xảy ra là bạn chưa đủ quyết tâm mà thôi! ✊
  
-**(Lưu ý: Tài liệu được sưu tầm từ nhiều nguồn khác nhau như Facebook, Youtube, Google, VNOI, CodeGym... )** 
+**(Lưu ý: Tài liệu được sưu tầm từ nhiều nguồn khác nhau như bạn bè của tui, Facebook, Youtube, Google, VNOI, CodeGym... )** 
 
 ⭐ Đừng quên đánh dấu sao cho dự án nếu bạn thấy hữu ích nhé!
 
