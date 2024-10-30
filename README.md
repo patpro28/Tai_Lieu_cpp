@@ -6,6 +6,15 @@
 
 👉 Dự án này được xây dựng với mục tiêu cung cấp cho các bạn học sinh, sinh viên và những người yêu thích lập trình một nguồn tài liệu C++ chất lượng, bao quát kiến thức từ căn bản đến nâng cao, giúp bạn rèn luyện kỹ năng lập trình và tự tin chinh phục mọi kì thi. 
 
+## Cách tải về và sử dụng
+### 1. Clone
+```
+git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
+```
+
+### 2. Tải về file zip
+**[Tải về file zip tại đây](https://github.com/DinhPhongNe/Tai_Lieu_cpp/archive/refs/tags/c++.zip)**
+
 ## Nội dung
 
 - **Kiến thức nền tảng:** Cú pháp cơ bản, kiểu dữ liệu, biến, toán tử, cấu trúc điều khiển, hàm,...
