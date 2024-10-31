@@ -71,17 +71,14 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 
 | STT | Tên Tài Liệu                                    | Link Tài Liệu                                                                                           | Ngôn Ngữ   |
 |-----|-------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------|
-| 1   | Nguồn tài liệu đề thi HSG Tin cấp Quận          | [Tại đây](https://github.com/zukahai/provincial-informatics-exam-questions.git)                         | Tiếng Việt |
+| 1   | Nguồn tài liệu đề thi HSG Tin cấp Quận          | [Tại đây](https://github.com/zukahai/provincial-informatics-exam-questions.git)                        | Tiếng Việt |
 | 2   | Thư viện đề thi VNOI                            | [Tại đây](https://oj.vnoi.info/post/315-dquynh_2811)                                                   | Tiếng Việt |
 | 3   | Nguồn tài liệu thuật toán cơ bản                | [Tại đây](https://github.com/zukahai/algorithm-basics-tutorial)                                        | Tiếng Việt |
-| 4   | Modern C++ Tutorial - Hướng dẫn C++ hiện đại    | [Tại đây](https://github.com/changkun/modern-cpp-tutorial)                                             | Tiếng Anh  |
-| 5   | C++ Core Guidelines - Cốt lõi của C++           | [Tại đây](https://github.com/isocpp/CppCoreGuidelines)                                                 | Tiếng Anh  |
-| 6   | C++ Things - Vụn vặt cùng C++                   | [Tại đây](https://github.com/Light-City/CPlusPlusThings/blob/master/README_EN.md)                      | Tiếng Anh  |
-| 7   | CTDL và Giải thuật C++                          | [Tại đây](https://blog.28tech.com.vn/ctdl-giai-thuat)                                                  | Tiếng Việt |
-| 8   | STL C++                                         | [Tại đây](https://blog.28tech.com.vn/stl-cpp)                                                          | Tiếng Việt |
-| 9   | Thuật toán cơ bản trong C++                     | [Tại đây](https://topdev.vn/blog/c-algorithm-nhung-thuat-toan-co-ban-trong-c/)                         | Tiếng Việt |
-| 10  | Thuật toán trong C++                            | [Tại đây](https://phattrienphanmem123az.com/thuat-toan-lap-trinh)                                      | Tiếng Việt |
-| 11  | Bài toán kinh điển trong lập trình C++          | [Tại đây](https://howkteam.vn/course/bai-toan-kinh-dien-trong-lap-trinh-28)                            | Tiếng Việt |
+| 4   | CTDL và Giải thuật C++                          | [Tại đây](https://blog.28tech.com.vn/ctdl-giai-thuat)                                                  | Tiếng Việt |
+| 5   | STL C++                                         | [Tại đây](https://blog.28tech.com.vn/stl-cpp)                                                          | Tiếng Việt |
+| 6   | Thuật toán cơ bản trong C++                     | [Tại đây](https://topdev.vn/blog/c-algorithm-nhung-thuat-toan-co-ban-trong-c/)                         | Tiếng Việt |
+| 7   | Thuật toán trong C++                            | [Tại đây](https://phattrienphanmem123az.com/thuat-toan-lap-trinh)                                      | Tiếng Việt |
+| 8   | Bài toán kinh điển trong lập trình C++          | [Tại đây](https://howkteam.vn/course/bai-toan-kinh-dien-trong-lap-trinh-28)                            | Tiếng Việt |
 
 ### 10 REPOSITORIES GITHUB GIÚP BẠN LÊN TRÌNH C++
 | STT | Tên repositories                                | Link repositories                                                                                      | Số sao     |
@@ -95,7 +92,7 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 7   | Modern C++ Tutorial                             | [Tại đây](https://github.com/changkun/modern-cpp-tutorial)                                             | 23.2k⭐️    |
 | 8   | modern-cpp-features                             | [Tại đây](https://github.com/AnthonyCalandra/modern-cpp-features)                                      | 19.3k⭐️    |
 | 9   | Awesome Modern C++                              | [Tại đây](https://github.com/rigtorp/awesome-modern-cpp)                                               | 11.4k⭐️    |
-| 10  | Thuật toán trong C++                            | [Tại đây](https://phattrienphanmem123az.com/thuat-toan-lap-trinh)                                      | 10.9k⭐️    |
+| 10  | Modern C++ Programming                          | [Tại đây](https://github.com/federico-busato/Modern-CPP-Programming)                                   | 10.9k⭐️    |
 
 
 ## Lời kết
