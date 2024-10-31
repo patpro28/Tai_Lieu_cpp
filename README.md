@@ -18,7 +18,7 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 ```
 
 ### 2. Tải về file zip
-**[Tải về file zip tại đây](https://github.com/DinhPhongNe/Tai_Lieu_cpp/archive/refs/tags/c++.zip)**
+**[Tải về file zip tại đây](https://github.com/DinhPhongNe/Tai_Lieu_cpp/archive/refs/tags/c++-1.2.0.zip)**
 
 ## Nội dung
 
