@@ -51,44 +51,38 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 ## Tài liệu tham khảo
 ### Các khoá học C++ MIỄN PHÍ:
 
-- **C++ Full course - Toàn bộ khoá C++ trong 12 tiếng [Tại đây](https://www.youtube.com/watch?v=E2pWDPZRAVA) (Tác giả: Simplilearn) | (Tiếng Anh)**
-
-- **C++ Full course - Toàn bộ khoá C++ trong 6 tiếng [Tại Đây](https://www.youtube.com/watch?v=-TkoO8Z07hI) (Tác giả: Bro Code) | (Tiếng Anh)**
-
-- **C++ Programming Course - Khoá C++ trong 31 tiếng [Tại đây](https://www.youtube.com/watch?v=8jLOx1hD3_o) (Tác giả: freeCodeCamp.org) | (Tiếng Anh )**
-
-- **Khoá học C++ Cơ bản đến nâng cao [Tại đây](https://fullstack.edu.vn/learning/lap-trinh-c-co-ban-toi-nang-cao) (Tác giả: F8 - Học lập trình để đi làm ) | (Tiếng Việt)**
-
-- **Khoá học C++ cơ bản đến nâng cao [Tại đây](https://tek4.vn/khoa-hoc/lap-trinh-cpp-tu-co-ban-den-nang-cao) (Tác giả: Tek4.vn) | (Tiếng Việt)**
-
-- **Khoá học C++ cho người mới bắt đầu [tại đây](https://codelearn.io/learning/cpp-cho-nguoi-moi-bat-dau) (Tác giả: Codelearn.io) | (Tiếng Việt )**
-
-- **Khóa học C++ dạng blog cho người mới bắt đầu [tại đây](https://blog.28tech.com.vn/c-vi-sao-nen-hoc-lap-trinh-c) (Tác giả: 28tech ) | (Tiếng Việt)**
-
-- **Khoá học C++ dạng blog cho người mới bắt đầu [tại đây](https://cpp.daynhauhoc.com/) (Tác giả: daynhauhoc.com) | (Tiếng Việt)**
-
-- **Khóa học C++ cho người mới bắt đầu [Tại đây](https://www.w3schools.com/cpp/default.asp) (Tác giả: W3Schools) | (Tiếng Anh)**
+| STT | Tên Khóa Học                                                 | Link Học                                                                 | Giá      | Tác Giả                     | Ngôn Ngữ   |
+|-----|--------------------------------------------------------------|--------------------------------------------------------------------------|----------|------------------------------|------------|
+| 1   | C++ Full course - Toàn bộ khóa C++ trong 12 tiếng            | [Tại đây](https://www.youtube.com/watch?v=E2pWDPZRAVA)                   | Miễn phí | Simplilearn                  | Tiếng Anh  |
+| 2   | C++ Full course - Toàn bộ khóa C++ trong 6 tiếng             | [Tại đây](https://www.youtube.com/watch?v=-TkoO8Z07hI)                   | Miễn phí | Bro Code                     | Tiếng Anh  |
+| 3   | C++ Programming Course - Khóa C++ trong 31 tiếng             | [Tại đây](https://www.youtube.com/watch?v=8jLOx1hD3_o)                   | Miễn phí | freeCodeCamp.org             | Tiếng Anh  |
+| 4   | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://fullstack.edu.vn/learning/lap-trinh-c-co-ban-toi-nang-cao) | Miễn phí | F8 - Học lập trình để đi làm | Tiếng Việt |
+| 5   | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://tek4.vn/khoa-hoc/lap-trinh-cpp-tu-co-ban-den-nang-cao) | Miễn phí | Tek4.vn                      | Tiếng Việt |
+| 6   | Khóa học C++ cho người mới bắt đầu                           | [Tại đây](https://codelearn.io/learning/cpp-cho-nguoi-moi-bat-dau)       | Miễn phí | Codelearn.io                 | Tiếng Việt |
+| 7   | Khóa học C++ dạng blog cho người mới bắt đầu                 | [Tại đây](https://blog.28tech.com.vn/c-vi-sao-nen-hoc-lap-trinh-c)       | Miễn phí | 28tech                       | Tiếng Việt |
+| 8   | Khóa học C++ dạng blog cho người mới bắt đầu                 | [Tại đây](https://cpp.daynhauhoc.com/)                                   | Miễn phí | daynhauhoc.com               | Tiếng Việt |
+| 9   | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://www.w3schools.com/cpp/default.asp)                     | Miễn phí | W3Schools                    | Tiếng Anh  |
+| 10  | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://www.codecademy.com/catalog/language/c-plus-plus)       | Miễn phí | codeacademy                  | Tiếng Anh  |
+| 11  | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://vietjack.com/cplusplus/)                               | Miễn phí | Vietjack                     | Tiếng Việt |
+| 12  | Khoá học C++ Căn bản cho người mới bắt đầu                   | [Tại đây](https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban-4)     | Miễn Phí | HowKteam                     | Tiếng Việt |
+  
 
 ### Các nguồn tài liệu khác:
-- **Nguồn tài liệu đề thi HSG Tin cấp Quận [Tại đây](https://github.com/zukahai/provincial-informatics-exam-questions.git)**
 
-- **Thư viện đề thi VNOI ( đã có trong repo này ) [Tại đây](https://oj.vnoi.info/post/315-dquynh_2811)**
+| STT | Tên Tài Liệu                                    | Link Tài Liệu                                                                                           | Ngôn Ngữ   |
+|-----|-------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------|
+| 1   | Nguồn tài liệu đề thi HSG Tin cấp Quận          | [Tại đây](https://github.com/zukahai/provincial-informatics-exam-questions.git)                         | Tiếng Việt |
+| 2   | Thư viện đề thi VNOI                            | [Tại đây](https://oj.vnoi.info/post/315-dquynh_2811)                                                   | Tiếng Việt |
+| 3   | Nguồn tài liệu thuật toán cơ bản                | [Tại đây](https://github.com/zukahai/algorithm-basics-tutorial)                                        | Tiếng Việt |
+| 4   | Modern C++ Tutorial - Hướng dẫn C++ hiện đại    | [Tại đây](https://github.com/changkun/modern-cpp-tutorial)                                             | Tiếng Anh  |
+| 5   | C++ Core Guidelines - Cốt lõi của C++           | [Tại đây](https://github.com/isocpp/CppCoreGuidelines)                                                 | Tiếng Anh  |
+| 6   | C++ Things - Vụn vặt cùng C++                   | [Tại đây](https://github.com/Light-City/CPlusPlusThings/blob/master/README_EN.md)                      | Tiếng Anh  |
+| 7   | CTDL và Giải thuật C++                          | [Tại đây](https://blog.28tech.com.vn/ctdl-giai-thuat)                                                  | Tiếng Việt |
+| 8   | STL C++                                         | [Tại đây](https://blog.28tech.com.vn/stl-cpp)                                                          | Tiếng Việt |
+| 9   | Thuật toán cơ bản trong C++                     | [Tại đây](https://topdev.vn/blog/c-algorithm-nhung-thuat-toan-co-ban-trong-c/)                         | Tiếng Việt |
+| 10  | Thuật toán trong C++                            | [Tại đây](https://phattrienphanmem123az.com/thuat-toan-lap-trinh)                                      | Tiếng Việt |
+| 11  | Bài toán kinh điển trong lập trình C++          | [Tại đây](https://howkteam.vn/course/bai-toan-kinh-dien-trong-lap-trinh-28)                            | Tiếng Việt |
 
-- **Nguồn tài liệu thuật toán cơ bản [Tại đây](https://github.com/zukahai/algorithm-basics-tutorial)**
-
-- **Modern C++ Tutorial - Hướng dẫn C++ hiện đại [Tại đây](https://github.com/changkun/modern-cpp-tutorial)**
-
-- **C++ Core Guidlines - cốt lõi của C++ [Tại đây](https://github.com/isocpp/CppCoreGuidelines)**
-
-- **C++ Things - Vụn vặt cùng C++ [Tại đây](https://github.com/Light-City/CPlusPlusThings/blob/master/README_EN.md)**
-
-- **CTDL và Giải thuật C++ [Tại đây](https://blog.28tech.com.vn/ctdl-giai-thuat)**
-
-- **STL C++ [Tại đây](https://blog.28tech.com.vn/stl-cpp)**
-
-- **Thuật toán cơ bản trong C++ [Tại đây](https://topdev.vn/blog/c-algorithm-nhung-thuat-toan-co-ban-trong-c/)**
-
-- **Thuật toán trong C++ [Tại Đây](https://phattrienphanmem123az.com/thuat-toan-lap-trinh)**
 
 
 ## Lời kết
