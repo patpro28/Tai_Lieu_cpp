@@ -49,7 +49,7 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 - Các bạn chuẩn bị tham gia các kì thi lập trình, Olympic tin học.
 
 ## Tài liệu tham khảo
-### Các khoá học C++:
+### Các khoá học C++ MIỄN PHÍ:
 
 - **C++ Full course - Toàn bộ khoá C++ trong 12 tiếng [Tại đây](https://www.youtube.com/watch?v=E2pWDPZRAVA) (Tác giả: Simplilearn) | (Tiếng Anh)**
 
