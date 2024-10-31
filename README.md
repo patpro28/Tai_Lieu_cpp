@@ -63,8 +63,14 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 
 - **Khoá học C++ cho người mới bắt đầu [tại đây](https://codelearn.io/learning/cpp-cho-nguoi-moi-bat-dau) (Tác giả: Codelearn.io)**
 
+- **Khóa học C++ dạng blog cho người mới bắt đầu [tại đây](https://blog.28tech.com.vn/c-vi-sao-nen-hoc-lap-trinh-c) (Tác giả: 28tech )**
+
+- **Khoá học C++ dạng blog cho người mới bắt đầu [tại đây](https://cpp.daynhauhoc.com/) (Tác giả: daynhauhoc.com)**
+
 ### Các nguồn tài liệu khác:
 - **Nguồn tài liệu đề thi HSG Tin cấp Quận [Tại đây](https://github.com/zukahai/provincial-informatics-exam-questions.git)**
+
+- **Thư viện đề thi VNOI ( đã có trong repo này ) [Tại đây](https://oj.vnoi.info/post/315-dquynh_2811)**
 
 - **Nguồn tài liệu thuật toán cơ bản [Tại đây](https://github.com/zukahai/algorithm-basics-tutorial)**
 
@@ -74,12 +80,16 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 
 - **C++ Things - Vụn vặt cùng C++ [Tại đây](https://github.com/Light-City/CPlusPlusThings/blob/master/README_EN.md)**
 
+- **CTDL và Giải thuật C++ [Tại đây](https://blog.28tech.com.vn/ctdl-giai-thuat)**
+
+- **STL C++ [Tại đây](https://blog.28tech.com.vn/stl-cpp)**
+
 
 ## Lời kết
 
 "Code nhiều thành thần" - Hãy bắt đầu hành trình chinh phục C++ cùng **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** ngay hôm nay! Vấn đề duy nhất có thể xảy ra là bạn chưa đủ quyết tâm mà thôi! ✊
  
-**(Lưu ý: Tài liệu được sưu tầm từ nhiều nguồn khác nhau như bạn bè của tui, Facebook, Youtube, Google, VNOI, CodeGym... )** 
+**(Lưu ý: Tài liệu được sưu tầm từ nhiều nguồn khác nhau như bạn bè của tui, Facebook, Youtube, Google, VNOI, CodeGym, 28tech... )** 
 
 ⭐ Đừng quên đánh dấu sao cho dự án nếu bạn thấy hữu ích nhé!
 
