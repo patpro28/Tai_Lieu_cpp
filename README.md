@@ -83,6 +83,19 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 10  | Thuật toán trong C++                            | [Tại đây](https://phattrienphanmem123az.com/thuat-toan-lap-trinh)                                      | Tiếng Việt |
 | 11  | Bài toán kinh điển trong lập trình C++          | [Tại đây](https://howkteam.vn/course/bai-toan-kinh-dien-trong-lap-trinh-28)                            | Tiếng Việt |
 
+### 10 REPOSITORIES GITHUB GIÚP BẠN LÊN TRÌNH C++
+| STT | Tên repositories                                | Link repositories                                                                                      | Số sao     |
+|-----|-------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------|
+| 1   | Project Based Learning                          | [Tại đây](https://github.com/practical-tutorials/project-based-learning)                               | 172k⭐️     |
+| 2   | Awesome C++                                     | [Tại đây](https://github.com/fffaraz/awesome-cpp)                                                      | 56k ⭐️     |
+| 3   | Cpp Core Guidelines                             | [Tại đây](https://github.com/isocpp/CppCoreGuidelines)                                                 | 41.7k ⭐️   |
+| 4   | C Plus Plus Things                              | [Tại đây](https://github.com/Light-City/CPlusPlusThings)                                               | 37.6k⭐️    |
+| 5   | C++ Interview                                   | [Tại đây](https://github.com/isocpp/CppCoreGuidelines)                                                 | 33.3k⭐️    |
+| 6   | The Algorithms                                  | [Tại đây](https://github.com/TheAlgorithms/C-Plus-Plus)                                                | 29.3k⭐️    |
+| 7   | Modern C++ Tutorial                             | [Tại đây](https://github.com/changkun/modern-cpp-tutorial)                                             | 23.2k⭐️    |
+| 8   | modern-cpp-features                             | [Tại đây](https://github.com/AnthonyCalandra/modern-cpp-features)                                      | 19.3k⭐️    |
+| 9   | Awesome Modern C++                              | [Tại đây](https://github.com/rigtorp/awesome-modern-cpp)                                               | 11.4k⭐️    |
+| 10  | Thuật toán trong C++                            | [Tại đây](https://phattrienphanmem123az.com/thuat-toan-lap-trinh)                                      | 10.9k⭐️    |
 
 
 ## Lời kết
