@@ -6,6 +6,11 @@
 
 👉 Dự án này được xây dựng với mục tiêu cung cấp cho các bạn học sinh, sinh viên và những người yêu thích lập trình một nguồn tài liệu C++ chất lượng, bao quát kiến thức từ căn bản đến nâng cao, giúp bạn rèn luyện kỹ năng lập trình và tự tin chinh phục mọi kì thi. 
 
+## Đóng góp tài liệu
+**Các bạn có thể đóng góp tài liệu [Tại đây](https://forms.gle/s6xSJcAc7wR6gEYL8)** 
+
+*Tụi mình rất cảm kính khi bạn đóng góp thêm tài liệu để dự án này ngày càng hoàn hảo hơn!*
+
 ## Cách tải về và sử dụng
 ### 1. Clone
 ```
