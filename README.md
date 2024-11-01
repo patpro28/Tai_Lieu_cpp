@@ -6,8 +6,10 @@
 
 👉 **Dự án này được xây dựng để tiết kiệm thời gian và công sức** trong việc tìm kiếm tài liệu C++ đáng tin cậy. Bạn không còn phải tìm kiếm khắp nơi nữa – tất cả đều được tập trung tại đây, với tài liệu cập nhật gần như hàng ngày và các khóa học miễn phí từ cơ bản đến nâng cao!
 
-## Đóng góp tài liệu
+## Đóng góp tài liệu và báo cáo vấn đề
 **Bạn có thể đóng góp tài liệu tại [đây](https://forms.gle/s6xSJcAc7wR6gEYL8)**.
+
+**Bạn có thể góp ý hoặc báo cáo vấn đề của tài liệu [Tại đây](https://forms.gle/PHzA9HKEH1BvH5m16)**
 
 *Chúng mình rất trân trọng sự đóng góp của bạn, giúp dự án ngày càng hoàn thiện và chất lượng hơn!*
 
@@ -72,9 +74,10 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 17  | C++ Full course Data structures and Algorithms               | [Tại đây](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)   | Miễn Phí | Apna College | Tiếng Anh
 | 18  | Khóa C++ Từ cơ bản đến nâng cao trong 9 tiếng                | [Tại đây](https://www.youtube.com/watch?v=mUQZ1qmKlLY)                                | Miễn Phí | Extern code | Tiếng Anh
 | 19 | Khóa C++ từ cơ bản đến nâng cao                               | [Tại đây](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee)   | Miễn Phí | Jenny's Lectures CS IT | Tiếng Anh
+| 20 | Thành thạo C++ qua 108 bài học                                | [Tại đây](https://www.youtube.com/playlist?list=PLAvWO9gbcGiWs6OYFOuQlN9alronoSwQP)   | Miễn Phí | Ứng dụng hay mê nghệ thuật | Tiếng Việt
+| 21 | Khóa học C++ tất cả trong 1 trong 10 tiếng                    | [Tại đây](https://www.youtube.com/watch?v=_bYFu9mBnr4)                                | Miễn Phí | Caleb Curry | Tiếng Việt
 
 ### Các nguồn tài liệu khác:
-
 | STT | Tên Tài Liệu                                    | Link Tài Liệu                                                                                           | Ngôn Ngữ   |
 |-----|-------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------|
 | 1   | Nguồn tài liệu đề thi HSG Tin cấp Quận          | [Tại đây](https://github.com/zukahai/provincial-informatics-exam-questions.git)                        | Tiếng Việt |
@@ -87,6 +90,16 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 8   | Bài toán kinh điển trong lập trình C++          | [Tại đây](https://howkteam.vn/course/bai-toan-kinh-dien-trong-lap-trinh-28)                            | Tiếng Việt |
 | 9   | Web luyện tập thực hành C++                     | [Tại đây](https://uteoj.vn/exercises)                                                                  | Tiếng Việt |
 | 10  | C++ Trong 100 giây                              | [Tại đây](https://www.youtube.com/watch?v=MNeX4EGtR5Y)                                                 | Tiếng Anh  |
+| 11  | Thư viện đề thi và tài liệu của OLP Tin học     | [Tại đây](https://vnoi.info/)                                                                          | Tiếng Việt |
+| 12  | Bài tập thực hành C++ trên Codeforces           | [Tại đây](https://codeforces.com/problemset)                                                           | Tiếng Anh  |
+| 13  | Tài liệu về Cấu trúc dữ liệu và Giải thuật (DSA) | [Tại đây](https://www.geeksforgeeks.org/data-structures/)                                              | Tiếng Anh  |
+| 14  | Tài liệu thuật toán và lập trình                | [Tại đây](https://vietjack.com/lap_trinh_thuat_toan/)                                                  | Tiếng Việt |
+| 15  | Nền tảng lập trình C++ cơ bản (Viblo)           | [Tại đây](https://viblo.asia/cplusplus)                                                                | Tiếng Việt |
+| 16  | Khóa học C++ trên Udemy                         | [Tại đây](https://www.udemy.com/course/free-learn-c-tutorial-beginners/)                               | Tiếng Anh  |
+| 17  | Bài tập lập trình C++ nâng cao tại Codesignal   | [Tại đây](https://app.codesignal.com/)                                                                 | Tiếng Anh  |
+| 18  | 100 Bài tập cơ bản và nâng cao C++ (Vietjack)   | [Tại đây](https://vietjack.com/bai-tap-lap-trinh-cplusplus/)                                           | Tiếng Việt |
+| 19  | C++ Interview Questions and Answers             | [Tại đây](https://www.interviewbit.com/cpp-interview-questions/)                                       | Tiếng Anh  |
+| 20  | Hướng dẫn thuật toán với Codewars               | [Tại đây](https://www.codewars.com/)                                                                   | Tiếng Anh  |
 
 ### 10 REPOSITORIES GITHUB GIÚP BẠN LÊN TRÌNH C++
 | STT | Tên repositories                                | Link repositories                                                                                      | Số sao     | Ngôn ngữ
@@ -110,6 +123,21 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 3   | Dev C++                                         | [Tại đây](https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe/download)                                                 |
 | 4   | CLion Community Edition                         | [Tại đây](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=APAC_en_ASIA_Clion_Branded&term=clion&content=489240779651&gad_source=1&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXYDDBbgdUtu2UyqPfjGH6trXzg2VQHzqpv7lzIuVAoY0f7iKUdX1PUaAsM5EALw_wcB)                                               |
 | 5   | MinGW-w64                                       | [Tại đây](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download)                                                 |
+| 6   | CMake                                           | [Tại đây](https://cmake.org/download/)                                                                 |
+| 7   | Git                                             | [Tại đây](https://git-scm.com/downloads)                                                               |
+| 8   | Sublime Text                                    | [Tại đây](https://www.sublimetext.com/3)                                                               |
+| 9   | Atom                                            | [Tại đây](https://atom.io/)                                                                            |
+| 10  | Notepad++                                       | [Tại đây](https://notepad-plus-plus.org/downloads/)                                                    |
+| 11  | Repl.it                                         | [Tại đây](https://replit.com/)                                                                         |
+| 12  | GCC Compiler                                    | [Tại đây](https://gcc.gnu.org/)                                                                        |
+| 13  | OnlineGDB (IDE trực tuyến)                      | [Tại đây](https://www.onlinegdb.com/)                                                                  |
+| 14  | JetBrains Toolbox (Để quản lý các sản phẩm JetBrains) | [Tại đây](https://www.jetbrains.com/toolbox-app/)                                           |
+| 15  | Xcode (dành cho MacOS)                          | [Tại đây](https://developer.apple.com/xcode/)                                                          |
+| 16  | Qt Creator                                      | [Tại đây](https://www.qt.io/download-qt-installer)                                                     |
+| 17  | Eclipse IDE for C/C++ Developers                | [Tại đây](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-cc-developers)      |
+| 18  | CodeLite                                        | [Tại đây](https://downloads.codelite.org/)                                                             |
+| 19  | Coliru (trình biên dịch C++ trực tuyến)         | [Tại đây](http://coliru.stacked-crooked.com/)                                                          |
+| 20  | JDoodle (biên dịch trực tuyến)                  | [Tại đây](https://www.jdoodle.com/c-online-compiler)                                                   |
 
 ## Lời kết
 "Code nhiều thành thần" - Hãy bắt đầu hành trình chinh phục C++ cùng **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** ngay hôm nay! Vấn đề duy nhất có thể xảy ra là bạn chưa đủ quyết tâm mà thôi! ✊
