@@ -65,7 +65,7 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 10  | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://www.codecademy.com/catalog/language/c-plus-plus)       | Miễn phí | codeacademy                  | Tiếng Anh  |
 | 11  | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://vietjack.com/cplusplus/)                               | Miễn phí | Vietjack                     | Tiếng Việt |
 | 12  | Khoá học C++ Căn bản cho người mới bắt đầu                   | [Tại đây](https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban-4)     | Miễn Phí | HowKteam                     | Tiếng Việt |
-  
+
 
 ### Các nguồn tài liệu khác:
 
@@ -79,6 +79,7 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 6   | Thuật toán cơ bản trong C++                     | [Tại đây](https://topdev.vn/blog/c-algorithm-nhung-thuat-toan-co-ban-trong-c/)                         | Tiếng Việt |
 | 7   | Thuật toán trong C++                            | [Tại đây](https://phattrienphanmem123az.com/thuat-toan-lap-trinh)                                      | Tiếng Việt |
 | 8   | Bài toán kinh điển trong lập trình C++          | [Tại đây](https://howkteam.vn/course/bai-toan-kinh-dien-trong-lap-trinh-28)                            | Tiếng Việt |
+| 9   | Web luyện tập thực hành C++                     | [Tại đây](https://uteoj.vn/exercises)                                                                  | Tiếng Việt |
 
 ### 10 REPOSITORIES GITHUB GIÚP BẠN LÊN TRÌNH C++
 | STT | Tên repositories                                | Link repositories                                                                                      | Số sao     |
