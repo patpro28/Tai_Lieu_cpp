@@ -65,7 +65,10 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 10  | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://www.codecademy.com/catalog/language/c-plus-plus)       | Miễn phí | codeacademy                  | Tiếng Anh  |
 | 11  | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://vietjack.com/cplusplus/)                               | Miễn phí | Vietjack                     | Tiếng Việt |
 | 12  | Khoá học C++ Căn bản cho người mới bắt đầu                   | [Tại đây](https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban-4)     | Miễn Phí | HowKteam                     | Tiếng Việt |
-
+| 13  | Khóa học C++ Cho người mới bắt đầu                           | [Tại đây](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr)   | Miễn Phí | Lập trình không khó                     | Tiếng Việt |
+| 14  | Khóa học C++ cho người mới bắt đầu                           | [Tại đây](https://www.youtube.com/playlist?list=PLPt6-BtUI22rZ-lB276VBY85mUNeIFJf5)   | Miễn Phí | Gà lại lập trình | Tiếng Việt |
+| 15  | Series tự học C/C++ cơ bản đến nâng cao                      | [Tại đây](https://www.youtube.com/playlist?list=PLq3KxntIWWrJkDaPEVmoaYW3PcZpkCzV2)   | Miễn phí | Cafedev | Tiếng Việt |
+| 16  | Khóa học C++ trong 10 tiếng                                  | [Tại đây](https://www.youtube.com/watch?v=GQp1zzTwrIg)                                | Miễn Phí | CodeBeauty | Tiếng Anh
 
 ### Các nguồn tài liệu khác:
 
@@ -80,20 +83,21 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 7   | Thuật toán trong C++                            | [Tại đây](https://phattrienphanmem123az.com/thuat-toan-lap-trinh)                                      | Tiếng Việt |
 | 8   | Bài toán kinh điển trong lập trình C++          | [Tại đây](https://howkteam.vn/course/bai-toan-kinh-dien-trong-lap-trinh-28)                            | Tiếng Việt |
 | 9   | Web luyện tập thực hành C++                     | [Tại đây](https://uteoj.vn/exercises)                                                                  | Tiếng Việt |
+| 10  | C++ Trong 100 giây                              | [Tại đây](https://www.youtube.com/watch?v=MNeX4EGtR5Y)                                                 | Tiếng Anh
 
 ### 10 REPOSITORIES GITHUB GIÚP BẠN LÊN TRÌNH C++
-| STT | Tên repositories                                | Link repositories                                                                                      | Số sao     |
-|-----|-------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------|
-| 1   | Project Based Learning                          | [Tại đây](https://github.com/practical-tutorials/project-based-learning)                               | 172k⭐️     |
-| 2   | Awesome C++                                     | [Tại đây](https://github.com/fffaraz/awesome-cpp)                                                      | 56k ⭐️     |
-| 3   | Cpp Core Guidelines                             | [Tại đây](https://github.com/isocpp/CppCoreGuidelines)                                                 | 41.7k ⭐️   |
-| 4   | C Plus Plus Things                              | [Tại đây](https://github.com/Light-City/CPlusPlusThings)                                               | 37.6k⭐️    |
-| 5   | C++ Interview                                   | [Tại đây](https://github.com/isocpp/CppCoreGuidelines)                                                 | 33.3k⭐️    |
-| 6   | The Algorithms                                  | [Tại đây](https://github.com/TheAlgorithms/C-Plus-Plus)                                                | 29.3k⭐️    |
-| 7   | Modern C++ Tutorial                             | [Tại đây](https://github.com/changkun/modern-cpp-tutorial)                                             | 23.2k⭐️    |
-| 8   | modern-cpp-features                             | [Tại đây](https://github.com/AnthonyCalandra/modern-cpp-features)                                      | 19.3k⭐️    |
-| 9   | Awesome Modern C++                              | [Tại đây](https://github.com/rigtorp/awesome-modern-cpp)                                               | 11.4k⭐️    |
-| 10  | Modern C++ Programming                          | [Tại đây](https://github.com/federico-busato/Modern-CPP-Programming)                                   | 10.9k⭐️    |
+| STT | Tên repositories                                | Link repositories                                                                                      | Số sao     | Ngôn ngữ
+|-----|-------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------|--------
+| 1   | Project Based Learning                          | [Tại đây](https://github.com/practical-tutorials/project-based-learning)                               | 172k⭐️     | Tiếng Anh
+| 2   | Awesome C++                                     | [Tại đây](https://github.com/fffaraz/awesome-cpp)                                                      | 56k ⭐️     | Tiếng Anh
+| 3   | Cpp Core Guidelines                             | [Tại đây](https://github.com/isocpp/CppCoreGuidelines)                                                 | 41.7k ⭐️   | Tiếng Anh
+| 4   | C Plus Plus Things                              | [Tại đây](https://github.com/Light-City/CPlusPlusThings)                                               | 37.6k⭐️    | Tiếng Anh
+| 5   | C++ Interview                                   | [Tại đây](https://github.com/isocpp/CppCoreGuidelines)                                                 | 33.3k⭐️    | Tiếng Anh
+| 6   | The Algorithms                                  | [Tại đây](https://github.com/TheAlgorithms/C-Plus-Plus)                                                | 29.3k⭐️    | Tiếng Anh
+| 7   | Modern C++ Tutorial                             | [Tại đây](https://github.com/changkun/modern-cpp-tutorial)                                             | 23.2k⭐️    | Tiếng Anh
+| 8   | modern-cpp-features                             | [Tại đây](https://github.com/AnthonyCalandra/modern-cpp-features)                                      | 19.3k⭐️    | Tiếng Anh
+| 9   | Awesome Modern C++                              | [Tại đây](https://github.com/rigtorp/awesome-modern-cpp)                                               | 11.4k⭐️    | Tiếng Anh
+| 10  | Modern C++ Programming                          | [Tại đây](https://github.com/federico-busato/Modern-CPP-Programming)                                   | 10.9k⭐️    | Tiếng Anh
 
 
 ## Lời kết
