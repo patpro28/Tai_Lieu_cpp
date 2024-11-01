@@ -2,14 +2,14 @@
 
 ## Giới thiệu
 
-⁉️ Bạn đang tìm kiếm một bộ tài liệu C++ toàn diện, từ cơ bản đến nâng cao, giúp bạn chinh phục mọi kì thi lập trình? Nếu vậy, hãy cùng khám phá **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** - kho tàng kiến thức C++ đồ sộ với hơn 1000 bài tập được tuyển chọn kỹ lưỡng! 😉
+⁉️ Bạn cần một bộ tài liệu C++ toàn diện từ cơ bản đến nâng cao để chinh phục mọi kỳ thi lập trình? **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** chính là kho tàng kiến thức bạn cần, với hơn 1000 bài tập được tuyển chọn kỹ lưỡng giúp bạn rèn luyện kỹ năng lập trình và tự tin đạt kết quả cao!
 
-👉 Dự án này được xây dựng với mục tiêu cung cấp cho các bạn học sinh, sinh viên và những người yêu thích lập trình một nguồn tài liệu C++ chất lượng, bao quát kiến thức từ căn bản đến nâng cao, giúp bạn rèn luyện kỹ năng lập trình và tự tin chinh phục mọi kì thi. 
+👉 **Dự án này được xây dựng để tiết kiệm thời gian và công sức** trong việc tìm kiếm tài liệu C++ đáng tin cậy. Bạn không còn phải tìm kiếm khắp nơi nữa – tất cả đều được tập trung tại đây, với tài liệu cập nhật gần như hàng ngày và các khóa học miễn phí từ cơ bản đến nâng cao!
 
 ## Đóng góp tài liệu
-**Các bạn có thể đóng góp tài liệu [Tại đây](https://forms.gle/s6xSJcAc7wR6gEYL8)** 
+**Bạn có thể đóng góp tài liệu tại [đây](https://forms.gle/s6xSJcAc7wR6gEYL8)**.
 
-*Tụi mình rất cảm kính khi bạn đóng góp thêm tài liệu để dự án này ngày càng hoàn hảo hơn!*
+*Chúng mình rất trân trọng sự đóng góp của bạn, giúp dự án ngày càng hoàn thiện và chất lượng hơn!*
 
 ## Cách tải về và sử dụng
 ### 1. Clone
@@ -69,6 +69,9 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 14  | Khóa học C++ cho người mới bắt đầu                           | [Tại đây](https://www.youtube.com/playlist?list=PLPt6-BtUI22rZ-lB276VBY85mUNeIFJf5)   | Miễn Phí | Gà lại lập trình | Tiếng Việt |
 | 15  | Series tự học C/C++ cơ bản đến nâng cao                      | [Tại đây](https://www.youtube.com/playlist?list=PLq3KxntIWWrJkDaPEVmoaYW3PcZpkCzV2)   | Miễn phí | Cafedev | Tiếng Việt |
 | 16  | Khóa học C++ trong 10 tiếng                                  | [Tại đây](https://www.youtube.com/watch?v=GQp1zzTwrIg)                                | Miễn Phí | CodeBeauty | Tiếng Anh
+| 17  | C++ Full course Data structures and Algorithms               | [Tại đây](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)   | Miễn Phí | Apna College | Tiếng Anh
+| 18  | Khóa C++ Từ cơ bản đến nâng cao trong 9 tiếng                | [Tại đây](https://www.youtube.com/watch?v=mUQZ1qmKlLY)                                | Miễn Phí | Extern code | Tiếng Anh
+| 19 | Khóa C++ từ cơ bản đến nâng cao                               | [Tại đây](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee)   | Miễn Phí | Jenny's Lectures CS IT | Tiếng Anh
 
 ### Các nguồn tài liệu khác:
 
@@ -83,7 +86,7 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 7   | Thuật toán trong C++                            | [Tại đây](https://phattrienphanmem123az.com/thuat-toan-lap-trinh)                                      | Tiếng Việt |
 | 8   | Bài toán kinh điển trong lập trình C++          | [Tại đây](https://howkteam.vn/course/bai-toan-kinh-dien-trong-lap-trinh-28)                            | Tiếng Việt |
 | 9   | Web luyện tập thực hành C++                     | [Tại đây](https://uteoj.vn/exercises)                                                                  | Tiếng Việt |
-| 10  | C++ Trong 100 giây                              | [Tại đây](https://www.youtube.com/watch?v=MNeX4EGtR5Y)                                                 | Tiếng Anh
+| 10  | C++ Trong 100 giây                              | [Tại đây](https://www.youtube.com/watch?v=MNeX4EGtR5Y)                                                 | Tiếng Anh  |
 
 ### 10 REPOSITORIES GITHUB GIÚP BẠN LÊN TRÌNH C++
 | STT | Tên repositories                                | Link repositories                                                                                      | Số sao     | Ngôn ngữ
@@ -99,9 +102,16 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 9   | Awesome Modern C++                              | [Tại đây](https://github.com/rigtorp/awesome-modern-cpp)                                               | 11.4k⭐️    | Tiếng Anh
 | 10  | Modern C++ Programming                          | [Tại đây](https://github.com/federico-busato/Modern-CPP-Programming)                                   | 10.9k⭐️    | Tiếng Anh
 
+### Các công cụ giúp bạn có môi trường lập trình tốt hơn
+| STT | Tên công cụ                                     | Link tải công cụ                                                                                        
+|-----|-------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1   | Visual Studio Code                              | [Tại đây](https://code.visualstudio.com/download)                               |
+| 2   | Code Block                                      | [Tại đây](https://www.codeblocks.org/downloads/)                                                      |
+| 3   | Dev C++                                         | [Tại đây](https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe/download)                                                 |
+| 4   | CLion Community Edition                         | [Tại đây](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=APAC_en_ASIA_Clion_Branded&term=clion&content=489240779651&gad_source=1&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXYDDBbgdUtu2UyqPfjGH6trXzg2VQHzqpv7lzIuVAoY0f7iKUdX1PUaAsM5EALw_wcB)                                               |
+| 5   | MinGW-w64                                       | [Tại đây](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download)                                                 |
 
 ## Lời kết
-
 "Code nhiều thành thần" - Hãy bắt đầu hành trình chinh phục C++ cùng **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** ngay hôm nay! Vấn đề duy nhất có thể xảy ra là bạn chưa đủ quyết tâm mà thôi! ✊
  
 **(Lưu ý: Tài liệu được sưu tầm từ nhiều nguồn khác nhau như bạn bè của tui, Facebook, Youtube, Google, VNOI, CodeGym, 28tech... )** 
