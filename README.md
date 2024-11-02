@@ -7,7 +7,7 @@
 👉 **Github này được xây dựng để tiết kiệm thời gian và công sức** trong việc tìm kiếm tài liệu C++ đáng tin cậy. Bạn không còn phải tìm kiếm khắp nơi nữa – tất cả đều được tập trung tại đây, với tài liệu cập nhật gần như hàng ngày và các khóa học miễn phí từ cơ bản đến nâng cao!
 
 ## Đóng góp tài liệu và báo cáo vấn đề
-**Bạn có thể đóng góp tài liệu tại [đây](https://forms.gle/s6xSJcAc7wR6gEYL8)**.
+**Bạn có thể đóng góp tài liệu [tại đây](https://forms.gle/s6xSJcAc7wR6gEYL8)**.
 
 **Bạn có thể góp ý hoặc báo cáo vấn đề của tài liệu [Tại đây](https://forms.gle/PHzA9HKEH1BvH5m16)**
 
@@ -20,7 +20,7 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 ```
 
 ### 2. Tải về file zip
-**[Tải về file zip tại đây](https://github.com/DinhPhongNe/Tai_Lieu_cpp/archive/refs/tags/c++-1.2.0.zip)**
+**[Tải về file zip tại đây](https://github.com/DinhPhongNe/Tai_Lieu_cpp/archive/refs/tags/cpp-1.3.0.zip)**
 
 ### 3. Tải từng file
 **Bạn có thể xem và tải các file mà bạn mong muốn về mà không cần tải toàn bộ tài liệu này về**
