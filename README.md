@@ -79,6 +79,15 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 19 | Khóa C++ từ cơ bản đến nâng cao                               | [Tại đây](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee)   | Miễn Phí | Jenny's Lectures CS IT | Tiếng Anh
 | 20 | Thành thạo C++ qua 108 bài học                                | [Tại đây](https://www.youtube.com/playlist?list=PLAvWO9gbcGiWs6OYFOuQlN9alronoSwQP)   | Miễn Phí | Ứng dụng hay mê nghệ thuật | Tiếng Việt
 | 21 | Khóa học C++ tất cả trong 1 trong 10 tiếng                    | [Tại đây](https://www.youtube.com/watch?v=_bYFu9mBnr4)                                | Miễn Phí | Caleb Curry | Tiếng Anh
+| 22 | Khoá học C++ cơ bản đến nâng cao                              | [Tại đây](https://www.youtube.com/watch?v=hto2TVEhNkA&list=PLE1qPKuGSJaD7sejCSC8ivSueeesNFyov) | Miễn Phí | Thân Triệu | Tiếng Việt
+| 23 | Tự học C/C++                                                  | [Tại đây](https://www.youtube.com/watch?v=jAA9-2SvOGg&list=PLPNBkAkc24iXVy7dZOWHLdDKjSCNWHERY) | Miễn Phí | điện tử viễn thông | Tiếng Việt
+| 24 | C++ Programming                                               | [Tại đây](https://www.youtube.com/watch?v=IsAoIqnNia4&list=PLfu_Bpi_zcDOtpXhhxL-P1wu0VkwNRXwC) | Miễn phí | Kody Simpson       | Tiếng Anh
+| 25 | Complete course C++ From zero to hero                         | [Tại đây](https://www.youtube.com/watch?v=SVDrq5kIroM&list=PLxVjTQtVPGI6U1RJz2PHM2y3nrIuEJGzW) | Miễn Phí | CodeCreators       | Tiếng Anh
+| 26 | Khoá lập trình C++                                            | [Tại đây](https://www.codecademy.com/learn/learn-c-plus-plus)                                  | Miễn Phí | Codeacademy        | Tiếng Anh
+| 27 | Khoá lập trình C++ phần A                                     | [Tại đây](https://www.coursera.org/learn/c-plus-plus-a)                                        | Miễn phí | Coursera           | Tiếng Anh
+| 28 | Khoá lập trình C++ Phần B                                     | [Tại đây](https://www.coursera.org/learn/c-plus-plus-b)                                        | Miễn Phí | Coursera           | Tiếng Anh
+
+
 
 ### Các nguồn tài liệu khác:
 | STT | Tên Tài Liệu                                    | Link Tài Liệu                                                                                           | Ngôn Ngữ   |
@@ -103,6 +112,12 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 18  | 100 Bài tập cơ bản và nâng cao C++ (Vietjack)   | [Tại đây](https://vietjack.com/bai-tap-lap-trinh-cplusplus/)                                           | Tiếng Việt |
 | 19  | C++ Interview Questions and Answers             | [Tại đây](https://www.interviewbit.com/cpp-interview-questions/)                                       | Tiếng Anh  |
 | 20  | Hướng dẫn thuật toán với Codewars               | [Tại đây](https://www.codewars.com/)                                                                   | Tiếng Anh  |
+| 21  | Tài liệu C++ nâng cao của Learncpp.com          | [Tại đây](https://www.learncpp.com/)                                                                   | Tiếng Anh  |
+| 22  | Các bài toán cơ bản và nâng cao trong C++       | [Tại đây](https://cppquiz.org/)                                                                        | Tiếng Anh  |
+| 23  | Bài tập C++ trên HackerRank                     | [Tại đây](https://www.hackerrank.com/domains/cpp)                                                      | Tiếng Anh  |
+| 24  | Tài liệu về cấu trúc dữ liệu và thuật toán bằng C++ | [Tại đây](https://www.geeksforgeeks.org/c-plus-plus/)                                                 | Tiếng Anh  |
+| 25  | Bài giảng về thuật toán và lập trình của MIT    | [Tại đây](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) | Tiếng Anh  |
+| 26  | Các bài thực hành và hướng dẫn C++ trên Sololearn | [Tại đây](https://www.sololearn.com/Course/CPlusPlus)                                                 | Tiếng Anh  |
 
 ### 10 REPOSITORIES GITHUB GIÚP BẠN LÊN TRÌNH C++
 | STT | Tên repositories                                | Link repositories                                                                                      | Số sao     | Ngôn ngữ
