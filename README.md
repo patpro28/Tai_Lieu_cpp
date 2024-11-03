@@ -30,7 +30,7 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 - **Kiến thức nền tảng:** Cú pháp cơ bản, kiểu dữ liệu, biến, toán tử, cấu trúc điều khiển, hàm,...
 - **Phát triển tư duy lập trình:** Rèn luyện khả năng phân tích bài toán, thiết kế thuật toán, và viết code hiệu quả.
 - **Thuật toán nâng cao:** Tìm kiếm, sắp xếp, xử lý chuỗi, đồ thị,...
-- **Hơn 1000 bài tập đa dạng:** Bao quát kiến thức, giúp bạn sẵn sàng cho các kì thi lập trình, Olympic tin học, học sinh giỏi,...
+- **Hơn 3000 bài tập đa dạng:** Bao quát kiến thức, giúp bạn sẵn sàng cho các kì thi lập trình, Olympic tin học, học sinh giỏi,...
 
 ## Mục tiêu
 
@@ -42,7 +42,7 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 
 ## Đặc điểm nổi bật
 
-- **Hơn 1000 bài tập:** Đa dạng về độ khó, giúp bạn luyện tập từ dễ đến khó.
+- **Hơn 3000 bài tập:** Đa dạng về độ khó, giúp bạn luyện tập từ dễ đến khó.
 - **Nội dung được tuyển chọn kỹ lưỡng:** Đảm bảo chất lượng và phù hợp với nhu cầu học tập.
 - **Tài liệu dễ hiểu, dễ tiếp cận:** Phù hợp với cả người mới bắt đầu và người đã có kiến thức cơ bản.
 - **Thường xuyên cập nhật:** Bổ sung thêm bài tập và kiến thức mới.
