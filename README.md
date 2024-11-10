@@ -45,7 +45,6 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 - **Hơn 3000 bài tập:** Đa dạng về độ khó, giúp bạn luyện tập từ dễ đến khó.
 - **Nội dung được tuyển chọn kỹ lưỡng:** Đảm bảo chất lượng và phù hợp với nhu cầu học tập.
 - **Tài liệu dễ hiểu, dễ tiếp cận:** Phù hợp với cả người mới bắt đầu và người đã có kiến thức cơ bản.
-- **Thường xuyên cập nhật:** Bổ sung thêm bài tập và kiến thức mới.
 
 ## Đối tượng sử dụng
 
@@ -160,8 +159,10 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 20  | JDoodle (biên dịch trực tuyến)                  | [Tại đây](https://www.jdoodle.com/c-online-compiler)                                                   |
 
 ## Lời kết
-"Code nhiều thành thần" - Cùng mình tham gia hành trình chinh phục C++ cùng **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** ngay hôm nay! Vấn đề duy nhất có thể xảy ra là bạn chưa đủ quyết tâm mà thôi! ✊
+ **Thủ tướng Phạm Minh Chính từng nói:** *Biến không thành có, biến khó thành dễ và biến cái không thể thành cái có thể* - Cùng mình tham gia hành trình chinh phục C++ cùng **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** ngay hôm nay! Vấn đề duy nhất có thể xảy ra là bạn chưa đủ quyết tâm mà thôi! ✊
  
+
+
 **(Lưu ý: Tài liệu được sưu tầm từ nhiều nguồn khác nhau như bạn bè của mình, Facebook, Youtube, Google, VNOI, CodeGym, 28tech... )** 
 
 ⭐ Đừng quên đánh dấu sao cho dự án nếu bạn thấy hữu ích nhé!
