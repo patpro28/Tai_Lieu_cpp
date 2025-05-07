@@ -7,7 +7,7 @@
 👉 **Github này được xây dựng để tiết kiệm thời gian và công sức** trong việc tìm kiếm tài liệu C++ đáng tin cậy. Bạn không còn phải tìm kiếm khắp nơi nữa – tất cả đều được tập trung tại đây, với tài liệu cập nhật gần như hàng ngày và các khóa học miễn phí từ cơ bản đến nâng cao!
 
 ## Đóng góp tài liệu và báo cáo vấn đề
-**Bạn có thể đóng góp tài liệu tại [đây](https://forms.gle/s6xSJcAc7wR6gEYL8)**.
+**Bạn có thể đóng góp tài liệu [tại đây](https://forms.gle/s6xSJcAc7wR6gEYL8)**.
 
 **Bạn có thể góp ý hoặc báo cáo vấn đề của tài liệu [Tại đây](https://forms.gle/PHzA9HKEH1BvH5m16)**
 
@@ -20,7 +20,7 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 ```
 
 ### 2. Tải về file zip
-**[Tải về file zip tại đây](https://github.com/DinhPhongNe/Tai_Lieu_cpp/archive/refs/tags/c++-1.2.0.zip)**
+**[Tải về file zip tại đây](https://github.com/DinhPhongNe/Tai_Lieu_cpp/archive/refs/tags/cpp-1.3.0.zip)**
 
 ### 3. Tải từng file
 **Bạn có thể xem và tải các file mà bạn mong muốn về mà không cần tải toàn bộ tài liệu này về**
@@ -30,7 +30,7 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 - **Kiến thức nền tảng:** Cú pháp cơ bản, kiểu dữ liệu, biến, toán tử, cấu trúc điều khiển, hàm,...
 - **Phát triển tư duy lập trình:** Rèn luyện khả năng phân tích bài toán, thiết kế thuật toán, và viết code hiệu quả.
 - **Thuật toán nâng cao:** Tìm kiếm, sắp xếp, xử lý chuỗi, đồ thị,...
-- **Hơn 1000 bài tập đa dạng:** Bao quát kiến thức, giúp bạn sẵn sàng cho các kì thi lập trình, Olympic tin học, học sinh giỏi,...
+- **Hơn 3000 bài tập đa dạng:** Bao quát kiến thức, giúp bạn sẵn sàng cho các kì thi lập trình, Olympic tin học, học sinh giỏi,...
 
 ## Mục tiêu
 
@@ -42,10 +42,9 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 
 ## Đặc điểm nổi bật
 
-- **Hơn 1000 bài tập:** Đa dạng về độ khó, giúp bạn luyện tập từ dễ đến khó.
+- **Hơn 3000 bài tập:** Đa dạng về độ khó, giúp bạn luyện tập từ dễ đến khó.
 - **Nội dung được tuyển chọn kỹ lưỡng:** Đảm bảo chất lượng và phù hợp với nhu cầu học tập.
 - **Tài liệu dễ hiểu, dễ tiếp cận:** Phù hợp với cả người mới bắt đầu và người đã có kiến thức cơ bản.
-- **Thường xuyên cập nhật:** Bổ sung thêm bài tập và kiến thức mới.
 
 ## Đối tượng sử dụng
 
@@ -56,29 +55,39 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 ## Tài liệu tham khảo
 ### Các khoá học C++ MIỄN PHÍ:
 
-| STT | Tên Khóa Học                                                 | Link Học                                                                 | Giá      | Tác Giả                     | Ngôn Ngữ   |
-|-----|--------------------------------------------------------------|--------------------------------------------------------------------------|----------|------------------------------|------------|
-| 1   | C++ Full course - Toàn bộ khóa C++ trong 12 tiếng            | [Tại đây](https://www.youtube.com/watch?v=E2pWDPZRAVA)                   | Miễn phí | Simplilearn                  | Tiếng Anh  |
-| 2   | C++ Full course - Toàn bộ khóa C++ trong 6 tiếng             | [Tại đây](https://www.youtube.com/watch?v=-TkoO8Z07hI)                   | Miễn phí | Bro Code                     | Tiếng Anh  |
-| 3   | C++ Programming Course - Khóa C++ trong 31 tiếng             | [Tại đây](https://www.youtube.com/watch?v=8jLOx1hD3_o)                   | Miễn phí | freeCodeCamp.org             | Tiếng Anh  |
-| 4   | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://fullstack.edu.vn/learning/lap-trinh-c-co-ban-toi-nang-cao) | Miễn phí | F8 - Học lập trình để đi làm | Tiếng Việt |
-| 5   | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://tek4.vn/khoa-hoc/lap-trinh-cpp-tu-co-ban-den-nang-cao) | Miễn phí | Tek4.vn                      | Tiếng Việt |
-| 6   | Khóa học C++ cho người mới bắt đầu                           | [Tại đây](https://codelearn.io/learning/cpp-cho-nguoi-moi-bat-dau)       | Miễn phí | Codelearn.io                 | Tiếng Việt |
-| 7   | Khóa học C++ dạng blog cho người mới bắt đầu                 | [Tại đây](https://blog.28tech.com.vn/c-vi-sao-nen-hoc-lap-trinh-c)       | Miễn phí | 28tech                       | Tiếng Việt |
-| 8   | Khóa học C++ dạng blog cho người mới bắt đầu                 | [Tại đây](https://cpp.daynhauhoc.com/)                                   | Miễn phí | daynhauhoc.com               | Tiếng Việt |
-| 9   | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://www.w3schools.com/cpp/default.asp)                     | Miễn phí | W3Schools                    | Tiếng Anh  |
-| 10  | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://www.codecademy.com/catalog/language/c-plus-plus)       | Miễn phí | codeacademy                  | Tiếng Anh  |
-| 11  | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://vietjack.com/cplusplus/)                               | Miễn phí | Vietjack                     | Tiếng Việt |
-| 12  | Khoá học C++ Căn bản cho người mới bắt đầu                   | [Tại đây](https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban-4)     | Miễn Phí | HowKteam                     | Tiếng Việt |
-| 13  | Khóa học C++ Cho người mới bắt đầu                           | [Tại đây](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr)   | Miễn Phí | Lập trình không khó                     | Tiếng Việt |
-| 14  | Khóa học C++ cho người mới bắt đầu                           | [Tại đây](https://www.youtube.com/playlist?list=PLPt6-BtUI22rZ-lB276VBY85mUNeIFJf5)   | Miễn Phí | Gà lại lập trình | Tiếng Việt |
-| 15  | Series tự học C/C++ cơ bản đến nâng cao                      | [Tại đây](https://www.youtube.com/playlist?list=PLq3KxntIWWrJkDaPEVmoaYW3PcZpkCzV2)   | Miễn phí | Cafedev | Tiếng Việt |
-| 16  | Khóa học C++ trong 10 tiếng                                  | [Tại đây](https://www.youtube.com/watch?v=GQp1zzTwrIg)                                | Miễn Phí | CodeBeauty | Tiếng Anh
-| 17  | C++ Full course Data structures and Algorithms               | [Tại đây](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)   | Miễn Phí | Apna College | Tiếng Anh
-| 18  | Khóa C++ Từ cơ bản đến nâng cao trong 9 tiếng                | [Tại đây](https://www.youtube.com/watch?v=mUQZ1qmKlLY)                                | Miễn Phí | Extern code | Tiếng Anh
-| 19 | Khóa C++ từ cơ bản đến nâng cao                               | [Tại đây](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee)   | Miễn Phí | Jenny's Lectures CS IT | Tiếng Anh
-| 20 | Thành thạo C++ qua 108 bài học                                | [Tại đây](https://www.youtube.com/playlist?list=PLAvWO9gbcGiWs6OYFOuQlN9alronoSwQP)   | Miễn Phí | Ứng dụng hay mê nghệ thuật | Tiếng Việt
-| 21 | Khóa học C++ tất cả trong 1 trong 10 tiếng                    | [Tại đây](https://www.youtube.com/watch?v=_bYFu9mBnr4)                                | Miễn Phí | Caleb Curry | Tiếng Anh
+| STT | Tên Khóa Học                                                 | Link Học                                                                 | Giá      | Tác Giả                      | Ngôn Ngữ   | Nền tảng |
+|-----|--------------------------------------------------------------|--------------------------------------------------------------------------|----------|------------------------------|------------|----------|
+| 1   | C++ Full course - Toàn bộ khóa C++ trong 12 tiếng            | [Tại đây](https://www.youtube.com/watch?v=E2pWDPZRAVA)                   | Miễn phí | Simplilearn                  | Tiếng Anh  | Youtube  |
+| 2   | C++ Full course - Toàn bộ khóa C++ trong 6 tiếng             | [Tại đây](https://www.youtube.com/watch?v=-TkoO8Z07hI)                   | Miễn phí | Bro Code                     | Tiếng Anh  | Youtube  |
+| 3   | C++ Programming Course - Khóa C++ trong 31 tiếng             | [Tại đây](https://www.youtube.com/watch?v=8jLOx1hD3_o)                   | Miễn phí | freeCodeCamp.org             | Tiếng Anh  | Youtube  |
+| 4   | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://fullstack.edu.vn/learning/lap-trinh-c-co-ban-toi-nang-cao) | Miễn phí | F8 - Học lập trình để đi làm | Tiếng Việt | Website  |
+| 5   | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://tek4.vn/khoa-hoc/lap-trinh-cpp-tu-co-ban-den-nang-cao) | Miễn phí | Tek4.vn                      | Tiếng Việt | Website  |
+| 6   | Khóa học C++ cho người mới bắt đầu                           | [Tại đây](https://codelearn.io/learning/cpp-cho-nguoi-moi-bat-dau)       | Miễn phí | Codelearn.io                 | Tiếng Việt | Website  |
+| 7   | Khóa học C++ dạng blog cho người mới bắt đầu                 | [Tại đây](https://blog.28tech.com.vn/c-vi-sao-nen-hoc-lap-trinh-c)       | Miễn phí | 28tech                       | Tiếng Việt | Website  |
+| 8   | Khóa học C++ dạng blog cho người mới bắt đầu                 | [Tại đây](https://cpp.daynhauhoc.com/)                                   | Miễn phí | daynhauhoc.com               | Tiếng Việt | Website  |
+| 9   | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://www.w3schools.com/cpp/default.asp)                     | Miễn phí | W3Schools                    | Tiếng Anh  | Website  |
+| 10  | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://www.codecademy.com/catalog/language/c-plus-plus)       | Miễn phí | codeacademy                  | Tiếng Anh  | Website  |
+| 11  | Khóa học C++ cơ bản đến nâng cao                             | [Tại đây](https://vietjack.com/cplusplus/)                               | Miễn phí | Vietjack                     | Tiếng Việt | Website  |
+| 12  | Khoá học C++ Căn bản cho người mới bắt đầu                   | [Tại đây](https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban-4)     | Miễn Phí | HowKteam                     | Tiếng Việt | Website  |
+| 13  | Khóa học C++ Cho người mới bắt đầu                           | [Tại đây](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr)   | Miễn Phí | Lập trình không khó                     | Tiếng Việt | Youtube  |
+| 14  | Khóa học C++ cho người mới bắt đầu                           | [Tại đây](https://www.youtube.com/playlist?list=PLPt6-BtUI22rZ-lB276VBY85mUNeIFJf5)   | Miễn Phí | Gà lại lập trình | Tiếng Việt | Youtube  |
+| 15  | Series tự học C/C++ cơ bản đến nâng cao                      | [Tại đây](https://www.youtube.com/playlist?list=PLq3KxntIWWrJkDaPEVmoaYW3PcZpkCzV2)   | Miễn phí | Cafedev | Tiếng Việt | Youtube  |
+| 16  | Khóa học C++ trong 10 tiếng                                  | [Tại đây](https://www.youtube.com/watch?v=GQp1zzTwrIg)                                | Miễn Phí | CodeBeauty | Tiếng Anh | Youtube  |
+| 17  | C++ Full course Data structures and Algorithms               | [Tại đây](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)   | Miễn Phí | Apna College | Tiếng Anh | Youtube  |
+| 18  | Khóa C++ Từ cơ bản đến nâng cao trong 9 tiếng                | [Tại đây](https://www.youtube.com/watch?v=mUQZ1qmKlLY)                                | Miễn Phí | Extern code | Tiếng Anh | Youtube  |
+| 19 | Khóa C++ từ cơ bản đến nâng cao                               | [Tại đây](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee)   | Miễn Phí | Jenny's Lectures CS IT | Tiếng Anh | Youtube  |
+| 20 | Thành thạo C++ qua 108 bài học                                | [Tại đây](https://www.youtube.com/playlist?list=PLAvWO9gbcGiWs6OYFOuQlN9alronoSwQP)   | Miễn Phí | Ứng dụng hay mê nghệ thuật | Tiếng Việt | Youtube  |
+| 21 | Khóa học C++ tất cả trong 1 trong 10 tiếng                    | [Tại đây](https://www.youtube.com/watch?v=_bYFu9mBnr4)                                | Miễn Phí | Caleb Curry | Tiếng Anh | Youtube  |
+| 22 | Khoá học C++ cơ bản đến nâng cao                              | [Tại đây](https://www.youtube.com/watch?v=hto2TVEhNkA&list=PLE1qPKuGSJaD7sejCSC8ivSueeesNFyov) | Miễn Phí | Thân Triệu | Tiếng Việt | Youtube  |
+| 23 | Tự học C/C++                                                  | [Tại đây](https://www.youtube.com/watch?v=jAA9-2SvOGg&list=PLPNBkAkc24iXVy7dZOWHLdDKjSCNWHERY) | Miễn Phí | điện tử viễn thông | Tiếng Việt | Youtube  |
+| 24 | C++ Programming                                               | [Tại đây](https://www.youtube.com/watch?v=IsAoIqnNia4&list=PLfu_Bpi_zcDOtpXhhxL-P1wu0VkwNRXwC) | Miễn phí | Kody Simpson       | Tiếng Anh | Youtube  |
+| 25 | Complete course C++ From zero to hero                         | [Tại đây](https://www.youtube.com/watch?v=SVDrq5kIroM&list=PLxVjTQtVPGI6U1RJz2PHM2y3nrIuEJGzW) | Miễn Phí | CodeCreators       | Tiếng Anh | Youtube  |
+| 26 | Khoá lập trình C++                                            | [Tại đây](https://www.codecademy.com/learn/learn-c-plus-plus)                                  | Miễn Phí | Codeacademy        | Tiếng Anh | Website  |
+| 27 | Khoá lập trình C++ phần A                                     | [Tại đây](https://www.coursera.org/learn/c-plus-plus-a)                                        | Miễn phí | Coursera           | Tiếng Anh | Website  |
+| 28 | Khoá lập trình C++ Phần B                                     | [Tại đây](https://www.coursera.org/learn/c-plus-plus-b)                                        | Miễn Phí | Coursera           | Tiếng Anh | Website  |
+| 29 | Khoá học lập trình C++                                        | [Tại đây](https://www.udemy.com/course/free-learn-c-tutorial-beginners/)                       | Miễn Phí | Udemy              | Tiếng Anh | Website  |
+| 30 | Khoá học lập trình C++ trực tuyến với bằng                    | [Tại đây](https://www.geeksforgeeks.org/courses/free-cpp-course-online-certification)          | Miễn Phí | GeeksForGeeks      | Tiếng Anh | Website  |
+| 31 | Khoá học lập trình C++                                        | [Tại đây](https://www.udacity.com/course/c-for-programmers)                                    | Miễn Phí | Udacity            | Tiếng Anh | Website  |
 
 ### Các nguồn tài liệu khác:
 | STT | Tên Tài Liệu                                    | Link Tài Liệu                                                                                           | Ngôn Ngữ   |
@@ -103,6 +112,13 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 18  | 100 Bài tập cơ bản và nâng cao C++ (Vietjack)   | [Tại đây](https://vietjack.com/bai-tap-lap-trinh-cplusplus/)                                           | Tiếng Việt |
 | 19  | C++ Interview Questions and Answers             | [Tại đây](https://www.interviewbit.com/cpp-interview-questions/)                                       | Tiếng Anh  |
 | 20  | Hướng dẫn thuật toán với Codewars               | [Tại đây](https://www.codewars.com/)                                                                   | Tiếng Anh  |
+| 21  | Tài liệu C++ nâng cao của Learncpp.com          | [Tại đây](https://www.learncpp.com/)                                                                   | Tiếng Anh  |
+| 22  | Các bài toán cơ bản và nâng cao trong C++       | [Tại đây](https://cppquiz.org/)                                                                        | Tiếng Anh  |
+| 23  | Bài tập C++ trên HackerRank                     | [Tại đây](https://www.hackerrank.com/domains/cpp)                                                      | Tiếng Anh  |
+| 24  | Tài liệu về cấu trúc dữ liệu và thuật toán bằng C++ | [Tại đây](https://www.geeksforgeeks.org/c-plus-plus/)                                                 | Tiếng Anh  |
+| 25  | Bài giảng về thuật toán và lập trình của MIT    | [Tại đây](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) | Tiếng Anh  |
+| 26  | Các bài thực hành và hướng dẫn C++ trên Sololearn | [Tại đây](https://www.sololearn.com/Course/CPlusPlus)                                                 | Tiếng Anh  |
+| 27  | Cấu trúc cơ bản: Vector, Con trỏ, Chuỗi và Files  | [Tại đây](https://www.coursera.org/learn/cpp-basic-structures-vectors-pointers-strings-and-files)     | Tiếng Anh  |
 
 ### 10 REPOSITORIES GITHUB GIÚP BẠN LÊN TRÌNH C++
 | STT | Tên repositories                                | Link repositories                                                                                      | Số sao     | Ngôn ngữ
@@ -143,8 +159,10 @@ git clone https://github.com/DinhPhongNe/Tai_Lieu_cpp.git
 | 20  | JDoodle (biên dịch trực tuyến)                  | [Tại đây](https://www.jdoodle.com/c-online-compiler)                                                   |
 
 ## Lời kết
-"Code nhiều thành thần" - Cùng mình tham gia hành trình chinh phục C++ cùng **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** ngay hôm nay! Vấn đề duy nhất có thể xảy ra là bạn chưa đủ quyết tâm mà thôi! ✊
+ **Thủ tướng Phạm Minh Chính từng nói:** *Biến không thành có, biến khó thành dễ và biến cái không thể thành cái có thể* - Cùng mình tham gia hành trình chinh phục C++ cùng **"Tài Liệu C++ Chinh Phục Mọi Kì Thi"** ngay hôm nay! Vấn đề duy nhất có thể xảy ra là bạn chưa đủ quyết tâm mà thôi! ✊
  
+
+
 **(Lưu ý: Tài liệu được sưu tầm từ nhiều nguồn khác nhau như bạn bè của mình, Facebook, Youtube, Google, VNOI, CodeGym, 28tech... )** 
 
 ⭐ Đừng quên đánh dấu sao cho dự án nếu bạn thấy hữu ích nhé!
